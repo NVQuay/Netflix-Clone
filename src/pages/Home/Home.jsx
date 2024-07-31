@@ -36,6 +36,7 @@ const Home = () => {
         <TitleCards title={"Top Pics for You"} category={"now_playing"} />
       </div>
       <Footer />
+      {/* test git */}
     </div>
   );
 };
